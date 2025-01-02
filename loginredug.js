@@ -87,4 +87,4 @@ function promptLocalStorageInput() {
         login(userInput);
     }
 }
-
+promptLocalStorageInput()
